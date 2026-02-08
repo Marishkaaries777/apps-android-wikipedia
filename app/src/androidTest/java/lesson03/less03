@@ -1,0 +1,5 @@
+AppTextView
+id	@id/primaryTextView
+text	The Free Encyclopedia
+…in over 300 languages
+name="onboarding_welcome_title_v2"
